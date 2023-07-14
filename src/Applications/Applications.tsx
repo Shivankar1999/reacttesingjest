@@ -8,7 +8,7 @@ export const Applications = () => {
       <p>I am Shubham</p>
       <img src="" alt="my img" />
       <span title="newTitle">X</span>
-      <div data-testid="custom-element">My Id</div>
+      {/* <div data-testid="custom-element">My Id</div> */}
       <form>
         <div>
           <label htmlFor="name">Name</label>
